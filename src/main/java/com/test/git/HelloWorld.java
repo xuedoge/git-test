@@ -7,4 +7,8 @@ public class HelloWorld {
         System.out.println("3");
         System.out.println("4");
     }
+
+    public static void add() {
+        int a = 1 + 1;
+    }
 }
